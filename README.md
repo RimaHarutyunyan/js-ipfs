@@ -60,7 +60,7 @@
   </a>
 </p>
 
-### Project status
+### Project changed already
 
 We are so pissed off. Please help us to develop. this is a huge project and we are so few people.
 
