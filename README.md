@@ -62,7 +62,7 @@
 
 ### Project status
 
-We've come a long way, but this project is still in Alpha, lots of development is happening, API might change, beware of the Dragons 🐉..
+We are so pissed off. Please help us to develop. this is a huge project and we are so few people.
 
 **Want to get started?** Check our [examples folder](/examples) to learn how to spawn an IPFS node in Node.js and in the Browser.
 
